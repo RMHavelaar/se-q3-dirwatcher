@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
 Dirwatcher - A long-running program
+This was a pain in the butt 
+I doubt Ill get full points.
 """
-
 __author__ = "Robert Havelaar"
 
 import sys
